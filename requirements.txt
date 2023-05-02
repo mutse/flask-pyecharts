@@ -1,2 +1,2 @@
-flask==1.1.2
+flask==2.3.2
 pyecharts==1.7.1
